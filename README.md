@@ -7,6 +7,8 @@ opoen git bash
 write 
 git clone https://github.com/Prasang007/OSD.git
 
+Check the website on http://prasanggupta.me/OSD
+
 
 make card that displays your :
 1. Name
