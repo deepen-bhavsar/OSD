@@ -1,0 +1,28 @@
+.main{
+	position: absolute;
+	width: 100%;
+	min-height: 50%;
+	z-index: 1;
+	background-image: url("wooden.jpg");
+}
+#upper{
+	top: 0 ;
+}
+#lower{
+	bottom: 0;
+}
+.button{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	z-index: 2;
+	bottom: 42%;
+	 left: 50%;
+    transform: translate(-50%, 0);
+    /*padding: 1em;*/
+    /*background-color: #dc3545;*/
+    border-radius:30%;
+}
+.button:hover {
+	padding: 4px;
+}
